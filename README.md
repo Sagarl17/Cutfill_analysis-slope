@@ -1,4 +1,8 @@
 # Cutfill_analysis-slope
+
+Download additional folder named "Solaris" from the following link and place the folder in the main folder:
+https://drive.google.com/drive/folders/134vCFpQtOM4TLYgfkyyYEamkvlAJMIvd?usp=sharing
+
 Cut fill analysis if sloped surfaces are required 
 Usage : 
 
