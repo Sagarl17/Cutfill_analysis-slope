@@ -1,7 +1,16 @@
 # Cutfill_analysis-slope
 
-# Library dependencies for the python code.  You need to install these with
-# `pip install -r requirements.txt` before you can run this.
+Installation instructions:
+There are multiple library dependencies for the python code such as:
+GDAL==2.4.0
+geojson==2.5.0
+numpy==1.17.0
+opencv-python==4.1.0.25
+opencv-python-headless==4.1.0.25
+pyproj==2.2.1
+Shapely==1.6.4.post2
+
+You need to install these with 'pip install -r requirements.txt' before you can run the code
 
 
 Download additional folder named "Solaris" from the following link and place the folder in the main folder:
