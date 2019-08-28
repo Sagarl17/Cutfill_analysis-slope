@@ -250,6 +250,8 @@ for h in f:
         slopes.append(n["slope"])
     elif "angle" in n:
         slopes.append(math.tan(n["angle"]))
+    else:
+        print("Slope or angle key doesn't exist in the json file")
 
     directions.append(n["direction"])
     coordinates.append(p)
